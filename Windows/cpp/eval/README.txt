@@ -1,0 +1,1 @@
+You need to copy "WalkinVR_SDK_Win64.dll" into the same directory as "WalkinVR_SDK_WinTest.exe"
